@@ -1,0 +1,4 @@
+{
+  "enableCMake": true,
+  "sourceDirectory": "myenv\\lib\\site-packages\\cmake\\data\\share\\cmake-3.31\\modules\\intelvsimplicitpath"
+}
